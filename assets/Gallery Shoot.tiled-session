@@ -1,0 +1,53 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Gallery Shoot.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Gallery Shoot.tmx": {
+            "scale": 1.09287109375,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 169.27888481815745,
+                "y": 220.97757126262172
+            }
+        },
+        "Gallery Shoot.tmx#gallery-shoot-packed": {
+            "scaleInDock": 1
+        },
+        "Gallery Shoot.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gallery-shoot-packed.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/kimberlyjeung/Downloads/SCHOOL/CMPM 120/gallery shoot/assets",
+    "last.imagePath": "/Users/kimberlyjeung/Downloads/SCHOOL/CMPM 120/gallery shoot/assets",
+    "map.height": 32,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 16,
+    "openFiles": [
+        "Gallery Shoot.tmx"
+    ],
+    "project": "Gallery Shoot.tiled-project",
+    "recentFiles": [
+        "Gallery Shoot.tmx",
+        "gallery-shoot-packed.tsx",
+        "Gallery Shoot.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
